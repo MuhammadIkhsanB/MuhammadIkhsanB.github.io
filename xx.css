@@ -1,0 +1,15 @@
+body
+{
+	padding: 100px;margin:100px;
+	text-align: center;
+	font-family: verdana;
+	font-size: 20;
+	color: blue;
+	background-image: url(https://www.wikihow.com/images_en/thumb/a/aa/Make-a-Rainbow-Rose-Step-1.jpg/v4-728px-Make-a-Rainbow-Rose-Step-1.jpg);
+}
+img {
+    border: 10px solid #ddd;
+    border-radius: 100px;
+    padding: 50px;
+    width: 150px;
+}
