@@ -1,0 +1,24 @@
+h1	{
+	color: #66ffff;
+	margin-left: 20px;
+}
+
+h2	{
+	color: #00ffcc;
+	margin-left: 20px;
+}
+
+#nav	{
+	border: 5px dashed #FF0000;
+	margin: 10px 5px 15px 20px;
+	padding: 10px 10px 10px	10px;
+
+}
+#nav	a {text-decoration:none; 
+			color: #0066cc
+}
+
+.recommended {
+	font-family: Tahoma;
+	margin-left: 15px;
+}
